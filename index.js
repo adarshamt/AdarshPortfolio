@@ -7,8 +7,8 @@ function sendmail(){
     }
 
 
-    const service_id ="service_4nt7f9z";
-   const template_id ="template_tm0dam7";
+    const service_id ="service_4bojbjg";
+   const template_id ="template_dxgs0ba";
      emailjs.send(service_id,template_id,peram)
 .then(
     res=>{
